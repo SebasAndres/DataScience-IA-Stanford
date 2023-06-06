@@ -1,4 +1,5 @@
-# DataScience-IA
-Some implementations of different IA algorithms.
+# Machine-Learning-Courses-Stanford
+
+Archivos de los cursos + usos de prueba
 
 <img src="readme-imgs/sample-pic.png" />
